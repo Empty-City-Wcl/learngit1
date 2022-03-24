@@ -1,4 +1,3 @@
-git is a version control system.
-git is a free software.
-wangchenlin will earn a lot of money
-hahaha
+git is a distributed version control system.
+Git is free software.
+
